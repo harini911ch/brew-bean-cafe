@@ -8,7 +8,7 @@ Brew & Bean is a client-style demo project designed for a café or small food bu
 
 ## 🌐 Live Demo
 
-Coming soon — deployed with Vercel.
+👉 https://brew-bean-cafe-rho.vercel.app/
 
 ---
 
